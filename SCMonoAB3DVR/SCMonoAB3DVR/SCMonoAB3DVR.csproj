@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PublishReadyToRun>false</PublishReadyToRun>
+    <TieredCompilation>false</TieredCompilation>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="discarded\**" />
+    <EmbeddedResource Remove="discarded\**" />
+    <None Remove="discarded\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Component.cs" />
+    <Compile Remove="ComponentBase.cs" />
+    <Compile Remove="Game1BACKTOBAse.cs" />
+    <Compile Remove="Game1NEW.cs" />
+    <Compile Remove="Game1OLD.cs" />
+    <Compile Remove="GraphicsDevice.cs" />
+    <Compile Remove="GraphicsResource.cs" />
+    <Compile Remove="IComponent.cs" />
+    <Compile Remove="RenderTarget2D.cs" />
+    <Compile Remove="SwapChainRenderTarget.cs" />
+    <Compile Remove="Texture.cs" />
+    <Compile Remove="Texture2D.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <TrimmerRootAssembly Include="Microsoft.Xna.Framework.Content.ContentTypeReader" Visible="false" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Ab3d.DXEngine" Version="4.0.7447" />
+    <PackageReference Include="Ab3d.OculusWrap" Version="1.18.0.2" />
+    <PackageReference Include="MonoGame.Framework.WindowsDX" Version="3.8.0.1641" />
+    <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.0.1641" />
+    <PackageReference Include="SharpDX" Version="4.2.0" />
+    <PackageReference Include="SharpDX.D3DCompiler" Version="4.2.0" />
+    <PackageReference Include="SharpDX.Direct2D1" Version="4.2.0" />
+    <PackageReference Include="SharpDX.Direct3D11" Version="4.2.0" />
+    <PackageReference Include="SharpDX.DirectInput" Version="4.2.0" />
+    <PackageReference Include="SharpDX.DirectSound" Version="4.2.0" />
+    <PackageReference Include="SharpDX.DXGI" Version="4.2.0" />
+    <PackageReference Include="SharpDX.Mathematics" Version="4.2.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+  </ItemGroup>
+</Project>

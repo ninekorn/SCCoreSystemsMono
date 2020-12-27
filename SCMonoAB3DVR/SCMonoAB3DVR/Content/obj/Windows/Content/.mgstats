@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ninekorn/source/repos/SCMonoAB3DVR/SCMonoAB3DVR/Content/Effect/shader.fx","C:/Users/ninekorn/source/repos/SCMonoAB3DVR/SCMonoAB3DVR/Content/bin/Windows/Content/Effect/shader.xnb","EffectProcessor","CompiledEffectContent",1213,1665,0.5368734
+"C:/Users/ninekorn/source/repos/SCMonoAB3DVR/SCMonoAB3DVR/Content/Texture/tex.png","C:/Users/ninekorn/source/repos/SCMonoAB3DVR/SCMonoAB3DVR/Content/bin/Windows/Content/Texture/tex.xnb","TextureProcessor","Texture2DContent",178,4181,0.0333369
