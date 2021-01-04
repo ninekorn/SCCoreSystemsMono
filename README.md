@@ -1,3 +1,11 @@
+
+2020-jan-03-02:14am - 
+i added the SCCoreSystemsMono solution. in that solution, the virtual reality rendering to the monogame directX window isn't working yet.
+The SCMonoAB3DVR solution is displayed both in the headset and in the monogame directX window. I will see if i can make the jitter physics engine work correctly later. I removed the ab3d.dxengine nugget and the ab3d.dxengine.oculusWrap built dlls. If you want the better quality, please follow the steps i posted on the 02 jan 2021.
+
+thank you for reading me,
+steve chassé
+
 2021-jan-02-
 i wanted this to have the 60 days trial using the ab3d.dxengine.OculusWrap, right out of the box, for people to use the ab3d.dxengine.oculusWrap. I modified my repos so you won't be able to make them work out of the box anymore.
 
