@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Effect/shader.fx</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Effect/ShaderChunk.fx</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Effect/shaderInst.fx</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Model/bunny.obj</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Model/car.fbx</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Model/Car.png</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Model/ConvexDecomposition.obj</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Model/convexhull.x</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Model/StaticMesh.x</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Model/torus.x</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Model/wheel.fbx</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Sprite/font1.spritefont</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Sprite/font2.spritefont</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Texture/checker.bmp</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Texture/cloth.png</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Texture/logo1.png</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Texture/logo2.png</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Texture/tex.png</File>
+    <File>C:/Users/ninekorn/source/repos/SCCoreSystemsMono/SCCoreSystemsMono/Content/Texture/texWhite.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
